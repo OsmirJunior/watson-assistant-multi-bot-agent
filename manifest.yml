@@ -6,9 +6,9 @@ applications:
   instances: 1
   random-route: true
   env:
-    WORKSPACE_ID_AGENT: <Workspace ID of agent bot>
-    WORKSPACE_ID_TRAVEL: <Workspace ID of travel bot>
-    WORKSPACE_ID_WEATHER: <Workspace ID of weather bot>
-    ASSISTANT_IAM_API_KEY: <API Key for service instance>
-    ASSISTANT_IAM_URL: <URL of service instance>
-    VERSION: <version of waston assistant sdk apis>
+    WORKSPACE_ID_AGENT: 4c3a51d9-ecf1-4721-bc20-fb61a69adc5d
+    WORKSPACE_ID_TRAVEL: b7adc7ee-8ab7-4ee7-a5ff-19bef3782302
+    WORKSPACE_ID_WEATHER: ddf82da9-332e-4127-b6e2-3c15f93af64b
+    ASSISTANT_IAM_API_KEY: Ws4L_TB0P6QI2CehENM33B1NbwsA90wEx-vBcirdkI6r
+    ASSISTANT_IAM_URL: https://api.us-east.assistant.watson.cloud.ibm.com/instances/a9032b42-8ef3-4d48-bae1-7d6cba24a874
+    VERSION: 2022-01-05
